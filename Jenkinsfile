@@ -40,7 +40,7 @@ pipeline {
             echo '🎉 Pipeline SUCCESS !'
         }
         failure {
-            echo '❌ Pipeline FAILED...'
+            echo '❌ Pipeline FAILED'
         }
     }
 }
